@@ -87,7 +87,7 @@ A minimalistic application to generate custom email templates built using Python
 <p align = "center"><img src = "./assets/demo_snapshot_v1_2.png" height = 300 width = 450 alt = "AITranscriber Snapshot v1"></p>
 
 
-## Note ✏️
+## Note 
 
 <p align = "center"><img src = "./assets/notes.gif" height = 300 alt = "Note Icon"></p>
 
@@ -95,7 +95,7 @@ A minimalistic application to generate custom email templates built using Python
 - For Streamlit Sharing, mentioning versions of the modules in requirements throws error at times
 
 
-## Deployment Options 🥊
+## Deployment Options 
 
 <p align = "center"><img src = "./assets/hosting.gif" height = 300 alt = "Hosting Icon"></p>
 
@@ -157,7 +157,7 @@ A minimalistic application to generate custom email templates built using Python
     
     - Step 3: Share URL with client
 
-## Acknowledgements 🙏
+## Acknowledgements
 
 <p align = "center"><img src = "https://media.giphy.com/media/1gQ6f5kJdBtGPSmdgS/giphy.gif" height = 300 alt = "Acknowledgment Icon"></p>
 
