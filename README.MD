@@ -6,7 +6,7 @@ A minimalistic application to generate custom email templates built using Python
 
 
 
-## Set-Up ⚒️
+## Set-Up 
 
 <p align = "center"><img src = "./assets/setup.gif" height = 300 alt = "SetUp Icon"></p>
 
@@ -76,7 +76,7 @@ A minimalistic application to generate custom email templates built using Python
     deactivate
     ```
 
-## Demo 👇
+## Demo
 
 **v.0.0.1**
 
@@ -93,16 +93,6 @@ A minimalistic application to generate custom email templates built using Python
 
 
 - For Streamlit Sharing, mentioning versions of the modules in requirements throws error at times
-
-
-## Future Work 🏗️
-
-- [ ] Chrome Plugin
-- [ ] Better Prompting
-- [ ] Editable
-- [ ] Sample Templats: 10
-- [ ] Add to Email
-
 
 
 ## Deployment Options 🥊
